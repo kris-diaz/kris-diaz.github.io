@@ -1,6 +1,6 @@
 <head><link rel="stylesheet" href="https://latex.vercel.app/style.css"></head>
-  
-<img src="https://github.com/chrisd149/chrisd149.github.io/blob/main/images/yo.jpg?raw=true" width="250" height="200" title="literally me btw">
+
+<center><img src="https://github.com/chrisd149/chrisd149.github.io/blob/main/images/yo.jpg?raw=true"class="center" title="literally me btw"></center>
 
 <p class="author">Kris Diaz <br> they/them</p>
 
@@ -10,6 +10,5 @@
 </p>
 </div>
 
-<label for="sn-1" class="sidenote-toggle sidenote-number"></label>
-<input type="checkbox" id="sn-1" class="sidenote-toggle" />
-<span class="sidenote"><!-- sidenote content --></span>
+
+
