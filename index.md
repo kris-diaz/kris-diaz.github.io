@@ -1,4 +1,4 @@
-<head><link rel="stylesheet" href="https://latex.vercel.app/style.css"></head>
+<head><link rel="stylesheet" href="https://latex.vercel.app/style.css" title="Howdy"></head>
 
 <center><img src="https://github.com/chrisd149/chrisd149.github.io/blob/main/images/yo.jpg?raw=true" title="literally me btw"></center>
 
